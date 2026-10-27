@@ -5,3 +5,4 @@ logs/
 crash_report.txt
 .idea/
 .vscode/
+server_out.txt
