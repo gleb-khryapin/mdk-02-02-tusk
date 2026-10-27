@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+logs/
+*.log
+crash_report.txt
+.idea/
+.vscode/
